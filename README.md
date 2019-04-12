@@ -2,12 +2,12 @@
 <!-- BEGIN DATA -->
 | Company Name | Location | APPLY |
 | --- | --- | --- |
-| [23andMe](https://www.23andme.com/careers/) | Mountain View, CA |
-| [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA |
-| [A9](http://www.a9.com/work-with-us/) | Palo Alto, CA |
-| [Academia](http://www.academia.edu/hiring) | San Francisco, CA |
-| [Achievers](https://www.achievers.com/careers/jobs) | San Francisco, CA  |
-| [Acorns](https://www.acorns.com/careers) | Irvine, CA |
+| [23andMe](https://www.23andme.com/careers/) | Mountain View, CA | [Y](https://www.23andme.com/careers/4018380002/)|
+| [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA | [Y](https://6sense.com/careers/join-us/?gh_jid=82110) |
+| [A9](http://www.a9.com/work-with-us/) | Palo Alto, CA | N, dupe with Amazon |
+| [Academia](http://www.academia.edu/hiring) | San Francisco, CA | [Y](http://www.academia.edu/hiring#full-stack-software-engineer) |
+| [Achievers](https://www.achievers.com/careers/jobs) | San Francisco, CA  | N, sr. level |
+| [Acorns](https://www.acorns.com/careers) | Irvine, CA | [Y](https://boards.greenhouse.io/acorns/jobs/1344709?gh_jid=1344709)|
 | [Addepar](https://addepar.com/careers/) | Mountain View, CA |
 | [Affirm](https://www.affirm.com/careers/) | San Francisco, CA |
 | [Airbnb](https://www.airbnb.com/careers) | San Francisco, CA |
