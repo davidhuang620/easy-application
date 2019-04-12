@@ -49,7 +49,7 @@
 | [Catchpoint](http://www.catchpoint.com/careers/) | New York, NY |
 | [change.org](https://www.change.org/careers) | San Francisco, CA |
 | [Checkr](https://checkr.com/careers/) | San Francisco, CA |
-| [Cheesecake Labs](https://cheesecakelabs.com/careers/) | Florianópolis, SC, Brazil; San Francisco, CA |
+| [Cheesecake Labs](https://cheesecakelabs.com/careers/) | San Francisco, CA |
 | [Chexology](https://jobs.lever.co/chexology) | New York, NY |
 | [CircleUp](https://circleup.com/jobs/) | San Francisco, CA |
 | [Citrix](https://jobs.citrix.com/) |  Fort Lauderdale, FL; Santa Clara, CA; Remote |
@@ -77,7 +77,7 @@
 | [CrunchBase](https://about.crunchbase.com/careers/) | San Francisco, CA |
 | [Cumulus Networks](https://cumulusnetworks.com/about/careers/) | Mountain View, CA |
 | [Curse](https://www.curseinc.com/careers?cookieTest=1) | Astoria, NY; El Segundo, CA;Irvine, CA|
-| [Curalate](https://www.themuse.com/companies/curalate) | London, UK; New York, NY; Philadelphia, PA; Seattle, WA |
+| [Curalate](https://www.themuse.com/companies/curalate) | New York, NY; Seattle, WA |
 | [Datadog](https://www.datadoghq.com/careers/) | Boston, MA; New York, NY; Paris, FR |
 | [DigitalOcean](https://www.digitalocean.com/company/careers/) | New York, NY; Remote |
 | [Disqus](https://disqus.com/jobs/) | San Francisco, CA |
@@ -116,7 +116,7 @@
 | [Gigster](https://gigster.com/join-us) | San Francisco, CA |
 | [GitHub](https://github.com/about/careers) | San Francisco, CA; Remote |
 | [GitLab](https://about.gitlab.com/jobs/) | Remote |
-| [GoDaddy](https://careers.godaddy.net/) | Culver City - Media Temple, CA;  Kirkland, WA; Sunnyvale, CA; Tempe, AZ |
+| [GoDaddy](https://careers.godaddy.net/) | Culver City-Media Temple, CA; Sunnyvale, CA |
 | [Gree](http://product.gree.net/us/en/careers/) | San Francisco, CA |
 | [Greenhouse](http://www.greenhouse.io/careers) | New York, NY |
 | [Groupon](https://jobs.groupon.com/#/categories/engineering) | Chicago, IL|
@@ -129,7 +129,7 @@
 | [Hart, Inc.](https://boards.greenhouse.io/hart) | Anaheim, CA |
 | [Helix](https://www.helix.com/careers) | San Carlos, CA; San Diego, CA |
 | [Hipmunk](https://www.hipmunk.com/jobs) | San Francisco, CA |
-| [HomeAway](https://www.homeaway.com/careers/openings/) | Austin, TX; Chicago, IL; Denver, CO; Seattle, WA |
+| [HomeAway](https://www.homeaway.com/careers/openings/) | Austin, TX; Seattle, WA |
 | [Hulu](http://www.hulu.com/jobs) | Santa Monica, CA |
 | [Idealab](http://www.idealab.com/about_idealab/careers.html) | Pasadena, CA |
 | [IFTTT](https://ifttt.com/jobs) | San Francisco, CA |
@@ -223,7 +223,7 @@
 | [Prism](https://prism.com/careers/) | San Francisco, CA |
 | [Pristine](https://pristine.io/careers/) | Austin, TX |
 | [Procore Technologies](https://www.procore.com/jobs/) | Santa Barbara, CA |
-| [Pure Storage](https://www.purestorage.com/company/careers.html) | Bellevue, WA; Mountain View, CA |
+| [Pure Storage](https://www.purestorage.com/company/careers.html) | Mountain View, CA |
 | [Qlik](http://www.qlik.com/us/company/careers) | San Francisco, CA |
 | [Qualtrics](https://www.qualtrics.com/careers/) | Provo, UT; Seattle, WA |
 | [Quantcast](https://www.quantcast.com/careers/) | San Francisco, CA |
@@ -239,7 +239,7 @@
 | [Reddit](https://about.reddit.com/careers/) | San Francisco, CA |
 | [Redfin](https://www.redfin.com/about/jobs) | San Francisco, CA; Seattle, WA |
 | [Remitly](https://www.remitly.com/us/en/home/careers) | Seattle, WA |
-| [RetailNext](https://retailnext.net/about-us/career-openings/) | Chicago, IL; San Francisco, CA; San Jose, CA |
+| [RetailNext](https://retailnext.net/about-us/career-openings/) | San Francisco, CA; San Jose, CA |
 | [Riot Games](https://www.riotgames.com/careers) | Los Angeles, CA |
 | [RiskIQ](https://www.riskiq.com/about/careers/) | San Francisco, CA |
 | [Robinhood](https://robinhood.com/jobs/) | Palo Alto, CA |
@@ -266,13 +266,13 @@
 | [Slice](https://careers.slice.com/) | San Mateo, CA |
 | [Smarking](https://www.smarking.net/careers) | San Francisco, CA |
 | [Smartsheet](https://www.smartsheet.com/careers) | Bellevue, WA |
-| [SmartThings](https://www.smartthings.com/careers) | Mountain View, CA; Palo Alto, CA; Seattle, WA; Tucson, AZ |
+| [SmartThings](https://www.smartthings.com/careers) | Mountain View, CA; Palo Alto, CA; Seattle, WA |
 | [Smule](https://www.smule.com/jobs) | San Francisco, CA |
 | [Snapchat](https://www.snapchat.com/jobs) | Venice, CA |
 | [SocialBase](http://www.socialbase.com.br/carreiras) | Florianópolis, SC, Brazil |
 | [Socotra](https://www.socotra.com/careers/) | San Francisco, CA |
 | [Source Intelligence](https://www.sourceintelligence.com/careers/) | San Diego, CA |
-| [SoundCloud](https://soundcloud.com/jobs) | Berlin, Germany; London, UK; New York, NY; San Francisco, CA |
+| [SoundCloud](https://soundcloud.com/jobs) |  New York, NY; San Francisco, CA |
 | [SpaceX](http://www.spacex.com/careers) | Hawthorne, CA |
 | [Spotify](https://www.spotifyjobs.com/) | Boston, MA; New York, NY; San Francisco, CA |
 | [Sprout Social](https://sproutsocial.com/careers) | Chicago, IL |
@@ -296,7 +296,7 @@
 | [Telenav](http://www.telenav.com/careers) | Sunnyvale, CA |
 | [TextNow](http://about.textnow.com/careers/#openings) | San Francisco, CA; Waterloo, ON; |
 | [The Artist Union](https://theartistunion.com/about) | San Francisco, CA |
-| [The Climate Corporation](https://climate.com/careers) | Chicago, IL; San Francisco, CA; Seattle, WA; St. Louis, MO |
+| [The Climate Corporation](https://climate.com/careers) |  San Francisco, CA; Seattle, WA|
 | [The Internet Archive](https://archive.org/about/jobs.php) | Remote; Richmond, CA; San Francisco, CA |
 | [The League](http://www.theleague.com/jobs/) | San Francisco, CA |
 | [ThoughtSpot](http://www.thoughtspot.com/careers) | Palo Alto, CA |
@@ -312,7 +312,7 @@
 | [Travis CI](https://travisci.workable.com/) | Remote, US |
 | [TripAdvisor](https://www.tripadvisor.com/careers/) | Boston, MA; New York, NY; San Francisco, CA |
 | [Trustpilot](https://jobs.trustpilot.com/) | Copenhagen, Denmark |
-| [Trustwave](https://careers.trustwave.com) | Austin, TX; Chicago, IL; New York, NY; Pittsburgh, PA |
+| [Trustwave](https://careers.trustwave.com) | Austin, TX;  New York, NY; Pittsburgh, PA |
 | [Tumblr](https://www.tumblr.com/jobs) | New York, NY; San Francisco, CA |
 | [Twilio](https://www.twilio.com/company/jobs) | Mountain View, CA; San Francisco, CA |
 | [Twitch](http://www.twitch.tv/p/jobs/) | San Francisco, CA |
@@ -325,7 +325,7 @@
 | [Valve](http://www.valvesoftware.com/jobs/job_postings.html) | Bellevue, WA |
 | [Veeva](http://jobs.jobvite.com/veeva/jobs) | New York, NY; Pleasanton, CA; Remote; Toronto, ON |
 | [Venmo](https://venmo.com/jobs/) | New York, NY |
-| [Vertafore](http://www.vertafore.com/About-Us/Careers/Openings) | Atlanta, GA; Bothell, WA; East Lansing, MI; Windsor, CT |
+| [Vertafore](http://www.vertafore.com/About-Us/Careers/Openings) | Atlanta, GA; Bothell, WA|
 | [VEVO](https://www.vevo.com/careers) | San Francisco, CA; New York, NY |
 | [VHX](https://www.vhx.tv/jobs) | New York, NY |
 | [Viget](https://www.viget.com/careers) | Boulder, CO; Durham, NC |
@@ -340,14 +340,13 @@
 | [Whitepages](http://about.whitepages.com/careers/) | Budapest, Hungary; Seattle, WA |
 | [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Work_with_us) | Remote; San Francisco, CA |
 | [Wish](https://www.wish.com/careers) | San Francisco, CA |
-| [Wolt](https://wolt.com/jobs) | Stockholm, Sweden; Copenhagen, Denmark; Turku, Finland; Helsinki, Finland |
 | [Work Market](https://www.workmarket.com/careers) | New York, NY |
 | [Workiva](https://www.workiva.com/careers) | Ames, IA |
 | [Xero](https://www.xero.com/nz/about/careers/) |  Singapore |
 | [Yelp](https://www.yelp.com/careers/home) | San Francisco, CA |
 | [Yext](http://www.yext.com/careers/) | New York, NY |
 | [YouNow](https://www.younow.com/careers) | New York, NY |
-| [Zalando](https://jobs.zalando.com/tech/jobs/) | Berlin, Germany; Dortmund, Germany; London, UK  |
+| [Zalando](https://jobs.zalando.com/tech/jobs/) | Berlin, Germany; |
 | [Zappos](https://jobs.zappos.com/choose-your-team) | Buffalo, NY; Las Vegas, NV |
 | [Zendesk](https://www.zendesk.com/jobs/) | Remote; San Francisco, CA |
 | [Zenefits](https://www.zenefits.com/careers/) | San Francisco, CA |
