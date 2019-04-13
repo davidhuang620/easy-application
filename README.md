@@ -352,8 +352,7 @@
 | [Zenefits](https://www.zenefits.com/careers/) | San Francisco, CA |
 | [ZenMate](https://zenmate.com/jobs/) | Berlin, Germany |
 | [Zillow](https://www.zillow.com/jobs/) | Irvine, CA; New York, NY; San Francisco, CA; Seattle, WA |
-| [ZocDoc](https://www.zocdoc.com/about/careers) | New York, NY |
-| [Zoosk](https://about.zoosk.com/en/careers/) | San Francisco, CA |
-| [Zscaler](https://www.zscaler.com/careers) | San Jose, CA |
-| [Zuora](https://www.zuora.com/about/careers/) | Foster City, CA; Remote |
-| [Zynga](https://www.zynga.com/careers) | San Francisco, CA |
+| [ZocDoc](https://www.zocdoc.com/about/careers) | New York, NY | [Y](https://www.zocdoc.com/about/careers-list/?job_id=Software-Engineer-1607571) |
+| [Zoosk](https://about.zoosk.com/en/careers/) | San Francisco, CA | Y, no opening |
+| [Zuora](https://www.zuora.com/about/careers/) | Foster City, CA; Remote | [Y](https://boards.greenhouse.io/zuora/jobs/1626579?gh_jid=1626579)|
+| [Zynga](https://www.zynga.com/careers) | San Francisco, CA | N, Sr. level |
