@@ -159,12 +159,12 @@
 | [Kickstarter](https://www.kickstarter.com/jobs) | New York, NY |
 | [Kinnek](https://www.kinnek.com/jointeam/) | New York, NY |
 | [Knowles](http://www.knowles.com/eng/Our-company/Careers) | Mountain View, CA |
-| [Laserfiche](http://jobs.laserfiche.com/) | Los Angeles, CA; |
-| [LendUp](https://www.lendup.com/careers) | San Francisco, CA |
-| [Lever](https://jobs.lever.co/lever) | San Francisco, CA |
-| [Lifesize](https://www.lifesize.com/en/company/careers) | Austin, TX |
-| [Liftoff](https://liftoff.io/company/careers/) | Palo Alto, CA |
-| [LinkedIn](https://www.linkedin.com/company/linkedin/careers) | Mountain View, CA |
+| [Laserfiche](http://jobs.laserfiche.com/) | Los Angeles, CA; | [Y](https://jobs.laserfiche.com/Jobs/Details/oSMr8fwX)|
+| [LendUp](https://www.lendup.com/careers) | San Francisco, CA | [Y](https://www.lendup.com/careers/positions?gh_jid=1591523)|
+| [Lever](https://jobs.lever.co/lever) | San Francisco, CA |[Y](https://jobs.lever.co/lever/f6eb3fa6-0ba5-4178-b1ae-e4e0448ba175)|
+| [Lifesize](https://www.lifesize.com/en/company/careers) | Austin, TX | N, Sr. level|
+| [Liftoff](https://liftoff.io/company/careers/) | Palo Alto, CA | [Y](https://liftoff.io/job/1004461/?gh_jid=1004461)|
+| [LinkedIn](https://www.linkedin.com/company/linkedin/careers) | Mountain View, CA | [Y](https://www.linkedin.com/jobs/search/?currentJobId=1183750885&f_C=1337&f_F=eng&f_L=us%3A0%2Cus%3A84&locationId=OTHERS.worldwide&sortBy=DD&start=75) mobile|
 | [Lithium](https://www.lithium.com/company/careers/job-openings/) | Austin, TX; San Francisco, CA |
 | [Livescribe](http://www.livescribe.com/en-us/jobs/) | Redwood City, CA |
 | [Logitech](http://www.logitech.com/en-us/careers/home) | Newark, CA |
