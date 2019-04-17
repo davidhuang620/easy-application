@@ -237,13 +237,13 @@
 | [Redbooth](https://www.redbooth.com/careers/) | Palo Alto, CA |
 | [Redbull](http://jobs.redbull.com/us/en-US) | Santa Monica, CA |
 | [Reddit](https://about.reddit.com/careers/) | San Francisco, CA |
-| [Redfin](https://www.redfin.com/about/jobs) | San Francisco, CA; Seattle, WA |
-| [Remitly](https://www.remitly.com/us/en/home/careers) | Seattle, WA |
-| [RetailNext](https://retailnext.net/about-us/career-openings/) | San Francisco, CA; San Jose, CA |
-| [Riot Games](https://www.riotgames.com/careers) | Los Angeles, CA |
-| [RiskIQ](https://www.riskiq.com/about/careers/) | San Francisco, CA |
-| [Robinhood](https://robinhood.com/jobs/) | Palo Alto, CA |
-| [ROBLOX](https://corp.roblox.com/careers) | San Mateo, CA |
+| [Redfin](https://www.redfin.com/about/jobs) | San Francisco, CA; Seattle, WA |[Y](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Software-Developer-II--Performance-Engineering-_21596)|
+| [Remitly](https://www.remitly.com/us/en/home/careers) | Seattle, WA |[Y](https://www.remitly.com/us/en/careers/1296566?from=engineering&gh_jid=1296566)|
+| [RetailNext](https://retailnext.net/about-us/career-openings/) | San Francisco, CA; San Jose, CA |[Y](https://retailnext.net/en/about-us/career-openings/?gh_jid=4245111002) |
+| [Riot Games](https://www.riotgames.com/careers) | Los Angeles, CA | [Y](https://www.riotgames.com/en/work-with-us/job/1472955)|
+| [RiskIQ](https://www.riskiq.com/about/careers/) | San Francisco, CA | N, Sr. level|
+| [Robinhood](https://robinhood.com/jobs/) | Palo Alto, CA | [Y](https://boards.greenhouse.io/robinhood/jobs/221794)|
+| [ROBLOX](https://corp.roblox.com/careers) | San Mateo, CA | Y |
 | [Roku](https://www.roku.com/about/jobs) | Austin, TX; Los Gatos, CA |
 | [Rover.com](http://jobs.rover.com/) | Seattle, WA |
 | [rubrik](https://www.rubrik.com/company/careers/) | Palo Alto, CA |
