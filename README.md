@@ -89,17 +89,17 @@
 | [Dot & Bo](https://www.dotandbo.com/content/jobs) | New York, NY |
 | [DraftKings](http://careers.draftkings.com/) | Boston, MA; New York, NY |
 | [DroneDeploy](https://www.dronedeploy.com/careers.html) | Remote; San Francisco, CA |
-| [Dropbox](https://www.dropbox.com/jobs) | New York, NY; San Francisco, CA; Seattle, WA |
+| [Dropbox](https://www.dropbox.com/jobs) | New York, NY; San Francisco, CA; Seattle, WA | [Y](https://www.dropbox.com/jobs/listing/1394482) |
 | [EagleView](https://www.eagleview.com/careers) | Bothell, WA |
 | [Edmodo](https://www.edmodo.com/careers) | San Mateo, CA |
 | [Edmunds](https://www.edmunds.com/careers/) | Santa Monica, CA |
-| [eHarmony](http://www.eharmony.com/about/careers/) | Los Angeles, CA |
+| [eHarmony](http://www.eharmony.com/about/careers/) | Los Angeles, CA |N, no open|
 | [Elasticsearch](https://www.elastic.co/about/careers) | Mountain View, CA |
 | [EnergySavvy](http://www.energysavvy.com/about/careers) | Seattle, WA |
-| [Entelo](https://www.entelo.com/careers/) | San Francisco, CA |
-| [Etsy](https://www.etsy.com/careers/) | New York, NY |
-| [Eventbrite](https://www.eventbrite.com/careers/) | San Francisco, CA |
-| [Evernote](https://evernote.com/careers/) | Redwood City, CA |
+| [Entelo](https://www.entelo.com/careers/) | San Francisco, CA | [Y](https://www.entelo.com/company/careers/job-openings/?gh_jid=1564293)|
+| [Etsy](https://www.etsy.com/careers/) | New York, NY | [Y](https://www.etsy.com/careers/job/bb745d6a-24b4-49f9-882b-2ecd2be3d60d)|
+| [Eventbrite](https://www.eventbrite.com/careers/) | San Francisco, CA |[Y, sr.](https://jobs.lever.co/eventbrite/bcea2df1-729a-4384-a054-897acf609de8)|
+| [Evernote](https://evernote.com/careers/) | Redwood City, CA |[Y](https://evernote.com/careers/job/?id=1335600&gh_jid=1335600)|
 | [Facebook](https://www.facebook.com/careers/) | Los Angeles, CA; Menlo Park, CA; San Francisco, CA; Seattle, WA |
 | [Faraday Future](https://www.ff.com/careers/) | Los Angeles, CA |
 | [Fastly](https://www.fastly.com/about/careers) | San Francisco, CA |
